@@ -1,11 +1,11 @@
 ### Hi everyone, my name is Owen Thurman. A data analyst @ Waterford Property Company that specializes in AI/ML. 
 
 
-🔭 I’m currently working on several projects. One that is particularly exciting is my work web-scraping financial data and processing it with sophisticated financial models in order to forecast the future of real estate distress in the United States. As you can see, the outcome in Phoenix is grim.
+🔭 I’m currently working on several projects. One that is particularly exciting is my work web-scraping financial data and processing it with sophisticated financial models in order to forecast the future of real estate distress in the entire world. As you can see, the outcome in Phoenix is grim.
 
 ![image](https://user-images.githubusercontent.com/96508222/213823161-41e17b82-a77a-4154-b8c8-cff779628d80.png)
 
-F
+
 
 
 
