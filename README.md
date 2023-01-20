@@ -3,7 +3,8 @@
 
 🔭 I’m currently working on several projects. One that is particularly exciting is my work web-scraping financial data and processing it with sophisticated financial models in order to forecast the future of real estate distress in the United States. As you can see, the outcome in Phoenix is grim.
 
-     ![image](https://user-images.githubusercontent.com/96508222/213823134-21ac99f7-67c3-4a79-9ecc-dce0be655302.png)
+f![image](https://user-images.githubusercontent.com/96508222/213823161-41e17b82-a77a-4154-b8c8-cff779628d80.png)
+
 
 
 
