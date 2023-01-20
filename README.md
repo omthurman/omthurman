@@ -6,9 +6,10 @@
 ![image](https://user-images.githubusercontent.com/96508222/213823161-41e17b82-a77a-4154-b8c8-cff779628d80.png)
 
 
-I own the entire pipeline. Taking data from raw web scraped information using Python, processing and then storing it inside the SQL based databases that I have designed, and then finally producing visualizations for decision makers. Below represents a visualization of the state of _______
+⚡ I own the entire pipeline. Taking data from raw web scraped information using Python, processing and then storing it inside the SQL based databases that I have designed, and then finally producing visualizations for decision makers. Below represents a visualization of the state of _______
 
 [planned image]
+
 
 A big part of the engineering problems I work on revolve around machine learning and artificial intelligence. Examples include
 
