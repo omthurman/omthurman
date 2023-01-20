@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone, my name is Owen Thurman. A data analyst that specializes in analyzing debt markets using machine learning. 
+
+
 
 <!--
 **omthurman/omthurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
