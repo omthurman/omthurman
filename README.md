@@ -10,10 +10,15 @@
 
 
 ⚡ I own the entire data pipeline, and produce actionable intelligence from start to finish. 
+
       --> Typically I first web scraped information using Python
+
       --> I then process it into a usable format
+
       --> Next I store the data inside the SQL based databases that I have designed and implemented
+
       --> On more sophisticated solutions I introduce various Machine Learning and Artifical intelligence solutions at this stage
+
       --> Then finally I produce visualizations for key decision makers, typically this is done in Tableau.
    
 Below represents a finished project that shows the state of the Real Estate market in _________*
