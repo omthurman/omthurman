@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/96508222/213823161-41e17b82-a77a-4154-b8c8-cff779628d80.png)
 
 
-⚡ I own the entire data pipeline, and produce actionable intelligence from start to finish. 
+⚡ I own the entire data pipeline producing actionable intelligence from start to finish. 
 
       --> Typically I first web scraped information using Python
 
