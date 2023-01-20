@@ -1,4 +1,8 @@
-### Hi everyone, my name is Owen Thurman. A data analyst that specializes in analyzing debt markets using machine learning. 
+### Hi everyone, my name is Owen Thurman. A data analyst @ Waterford Property Company that specializes in analyzing debt markets using machine learning. 
+
+
+🔭 I’m currently working on
+      ![image](https://user-images.githubusercontent.com/96508222/213822816-4c151070-9af3-47c1-bcfa-517391ddc679.png)
 
 
 
