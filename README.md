@@ -9,7 +9,14 @@
 ![image](https://user-images.githubusercontent.com/96508222/213823161-41e17b82-a77a-4154-b8c8-cff779628d80.png)
 
 
-⚡ I own the entire pipeline. Taking data from raw web scraped information using Python, processing, storing it inside the SQL based databases that I have designed, analyzing it with various ML/AI solutions and then finally producing visualizations for decision makers. Below represents a visualization of the state of _______
+⚡ I own the entire data pipeline, and produce actionable intelligence from start to finish. 
+      --> Typically I first web scraped information using Python
+      --> I then process it into a usable format
+      --> Next I store the data inside the SQL based databases that I have designed and implemented
+      --> On more sophisticated solutions I introduce various Machine Learning and Artifical intelligence solutions at this stage
+      --> Then finally I produce visualizations for key decision makers, typically this is done in Tableau.
+   
+Below represents a finished project that shows the state of the Real Estate market in _________*
 
 [planned image]
 
