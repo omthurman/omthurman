@@ -10,6 +10,10 @@ I own the entire pipeline. Taking data from raw web scraped information using Py
 
 [planned image]
 
+A big part of the engineering problems I work on revolve around machine learning and artificial intelligence. Examples include
+
+[planned deep learning image]
+
 
 <!--
 **omthurman/omthurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
