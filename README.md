@@ -1,7 +1,7 @@
 ### My name is Owen Thurman and I make cool stuff.
 
 
-I am a data analyst at Waterford Property Company, a leading firm in the workforce housing industry, with a portfolio valued at over 3 billion dollars. I specialize in the integration of AI and machine learning within the real estate industry. I am currently spearheading several exciting projects, both for the company and my own personal pursuits. 
+🔭 I work as a data analyst at Waterford Property Company, a leading firm in the workforce housing industry, with a portfolio valued at over 3 billion dollars. I specialize in the integration of AI and machine learning within the real estate industry. I am currently spearheading several exciting projects, both for the company and my own personal pursuits. 
 
 
 ⚡ One that is particularly exciting is my work web-scraping financial data and processing it with sophisticated financial models in order to forecast the future of real estate distress in the entire world. As you can see, the outcome in Phoenix is grim.
