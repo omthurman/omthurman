@@ -1,7 +1,7 @@
-### Hi everyone, my name is Owen Thurman. A data analyst at Waterford Property Company, a leading firm in the workforce housing industry, with a portfolio valued at over 3 billion dollars. I specialize in the application of AI and machine learning within the Real Estate and Private Equity Space.
+### My name is Owen Thurman and I make cool stuff.
 
 
-🔭 I’m currently working on several exciting projects, both for my company and personal passion projects. 
+I am a data analyst at Waterford Property Company, a leading firm in the workforce housing industry, with a portfolio valued at over 3 billion dollars. I specialize in the integration of AI and machine learning within the real estate industry. I am currently spearheading several exciting projects, both for the company and my own personal pursuits. 
 
 
 ⚡ One that is particularly exciting is my work web-scraping financial data and processing it with sophisticated financial models in order to forecast the future of real estate distress in the entire world. As you can see, the outcome in Phoenix is grim.
@@ -9,17 +9,19 @@
 ![image](https://user-images.githubusercontent.com/96508222/213823161-41e17b82-a77a-4154-b8c8-cff779628d80.png)
 
 
-⚡ I own the entire data pipeline producing actionable intelligence from start to finish. 
+As a data analyst with expertise in AI and machine learning, I have developed a comprehensive data pipeline that enables me to produce actionable intelligence from start to finish. This pipeline includes several key steps:
 
-      --> Typically I first web scraped information using Python
+Web scraping: I use Python to gather information from various sources on the web.
 
-      --> I then process it into a usable format
+Data processing: I process the collected data into a usable format for further analysis.
 
-      --> Next I store the data inside the SQL based databases that I have designed and implemented
+Data storage: I design and implement SQL-based databases to store the processed data.
 
-      --> On more sophisticated solutions I introduce various Machine Learning and Artifical intelligence solutions at this stage
+Machine learning and AI integration: For more advanced solutions, I incorporate various machine learning and AI techniques to further analyze the data. (Keras, Scit-Kit Learn, Tensorflow)
 
-      --> Then finally I produce visualizations for key decision makers, typically this is done in Tableau.
+Visualization: Finally, I create visualizations of the data using Tableau to provide key decision-makers with easy-to-understand insights.
+
+I am responsible for managing the entire data pipeline, from web scraping to data visualization. My expertise in Python, SQL, machine learning, and AI, allows me to gather, process, store, analyze, and visualize data in an efficient and effective manner.
    
 Below represents a finished project that shows the state of the Real Estate market in _________*
 
