@@ -29,6 +29,8 @@ Below represents a finished project that shows the state of the Real Estate mark
 
 
 
+
+
 ### 😄 A big part of the engineering problems I work on revolve around the exciting world of machine learning and artificial intelligence. A showcase of an exciting deep learning project I have worked on follows.
 
 [planned deep learning image]
