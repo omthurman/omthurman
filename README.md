@@ -1,4 +1,4 @@
-### Hi everyone, my name is Owen Thurman. A data analyst @ Waterford Property Company that specializes in AI/ML. 
+### Hi everyone, my name is Owen Thurman. A data analyst at Waterford Property Company, a leading firm in the workforce housing industry, with a portfolio valued at over 3 billion dollars. I specialize in the application of AI and machine learning within the Real Estate and Private Equity Space.
 
 
 🔭 I’m currently working on several exciting projects, both for my company and personal passion projects. 
