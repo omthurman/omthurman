@@ -1,1 +1,1 @@
-### My name is Owen Thurman and I make cool stuff
+### My name is Owen Thurman and I like to make cool stuff
