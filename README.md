@@ -1,3 +1,3 @@
-### My name is Owen and I love to build
+### AHHHHHHHHHHHHHHHHHHHHH
 
-![giphy](https://github.com/omthurman/omthurman/assets/96508222/e934f1e0-7de8-48eb-89d8-0722fdd36b59)
+![output](https://github.com/user-attachments/assets/bba1897e-1e7a-4cc6-a521-5f548e09ccca)
